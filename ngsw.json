@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1668138414570,
+  "timestamp": 1668141729826,
   "index": "/Nicole/index.html",
   "assetGroups": [
     {
@@ -1705,7 +1705,7 @@
     "/Nicole/assets/img/user8-128x128.jpg": "8534595b485a63d84e5eba5cbd298a69232e0ccf",
     "/Nicole/assets/js/app.js": "2c2c2b7b80465096e930e3d5c4a57a26b5fcd979",
     "/Nicole/assets/js/app.min.js": "4816389322ee0a794314ca2884758259b8cbd9f7",
-    "/Nicole/assets/js/config.js": "e8cba9b47ca5177c57c261fcaa806b4e672274be",
+    "/Nicole/assets/js/config.js": "f000e9289a0a3fd5437f24f860a1a3324bbf8247",
     "/Nicole/assets/js/datatables.js": "c8a58af0e34d29dc262251550ea55f4b6ef76961",
     "/Nicole/assets/js/demo.js": "34603e5d05db6f4e9f5dbc12014a0ecbd2b5f361",
     "/Nicole/assets/js/funcionesComunes.js": "e563882e17a2522d2b2e0f710e2ffbd860f0f9c0",
